@@ -1,0 +1,17 @@
+{
+    "name": "TakeNote, a PWA that lets you add notes while you are coding",
+    "short_name": "TakeNote",
+    "start_url": "./?utm_source=pwa",
+    "theme_color": "#ffc252",
+    "scope": "./",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+        
+                
+    ]
+}
